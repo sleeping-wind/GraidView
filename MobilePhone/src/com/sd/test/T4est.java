@@ -1,11 +1,10 @@
 package com.sd.test;
 
 import com.sd.test.Outer.Inner;
-// Í¨¹ıÄÚ²¿Ààµ÷ÓÃÍâ²¿ÀàµÄË½ÓĞ·½·¨£¬ÊôĞÔ
+// é€šè¿‡å†…éƒ¨ç±»è°ƒç”¨å¤–éƒ¨ç±»çš„ç§æœ‰æ–¹æ³•ï¼Œå±æ€§
 public class T4est {
 	public static void main(String[] args) {
 		Outer outer = new Outer();
-		
 		Inner inn = outer.new Inner();
 		inn.test();
 		
