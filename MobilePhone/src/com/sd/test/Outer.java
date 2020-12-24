@@ -1,16 +1,14 @@
 package com.sd.test;
 
-
 public class Outer {
-	private String s = "Íâ²¿ÄÚË½ÓĞÊôĞÔ";
+	private String s = "å¤–éƒ¨å†…ç§æœ‰å±æ€§";
 	private void play() {
-		System.out.println("Íâ²¿Ë½ÓĞ·½·¨");
+		System.out.println("å¤–éƒ¨ç§æœ‰æ–¹æ³•");
 	}
 	public class Inner{
 		void test(){
 			System.out.println(s);
 			play();
 		}
-		
 	}
 }
