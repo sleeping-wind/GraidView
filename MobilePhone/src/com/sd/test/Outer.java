@@ -1,5 +1,5 @@
 package com.sd.test;
-
+// test pull
 public class Outer {
 	private String s = "外部内私有属性";
 	private void play() {
