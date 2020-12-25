@@ -3,7 +3,7 @@ package com.sd.jn;
 import java.util.Arrays;
 
 public class test2 {
-	// Ã°ÅİÅÅĞò
+	// å†’æ³¡æ’åº
 	public static void main(String[] args) {
 		int arr[] = {5,4,7,9,1,0,3,5};
 		for (int i = 0; i < arr.length-1; i++) {
